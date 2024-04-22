@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+#### Might need vue-qrcode-reader
+```
+npm install vue-qrcode-reader
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
