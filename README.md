@@ -15,9 +15,9 @@ npm run serve
 npm run build
 ```
 
-#### Might need vue-qrcode-reader
+#### Might needs those plugins
 ```
-npm install vue-qrcode-reader
+npm install vue-qrcode-reader pouchdb pouchdb-adapter-http bootstrap@5.3.3
 ```
 
 ### Customize configuration
